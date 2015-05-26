@@ -1,0 +1,4 @@
+Connect 3 Leds to The Port A, While AVR Is Sourcing.
+Connect 3 Leds To The Port C, While AVR Is Sinking.
+
+Write A Program To Turn The Leds One After One ( Delay Between Them 100ms ).

@@ -1,0 +1,1 @@
+Use GETRC Instruction To Turn On/Off Leds According To The Value Of Variable Resistor 

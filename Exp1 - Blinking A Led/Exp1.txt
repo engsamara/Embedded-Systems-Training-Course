@@ -1,0 +1,4 @@
+Connect A Led to The Port A, While AVR Is Sourcing.
+Connect A Led To The Port C, While AVR Is Sinking.
+
+Write A Program To Turn The Leds For 1 Second And Turn Them Off For 1 Second Continuosly !

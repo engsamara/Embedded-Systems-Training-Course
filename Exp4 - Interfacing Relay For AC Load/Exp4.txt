@@ -1,0 +1,3 @@
+Connect A 36 Volt Bulb To PIND.0 !
+
+Write A Program To Turn On The BULB For 1 Second And Turn Off For 1 Second Continuosly !
